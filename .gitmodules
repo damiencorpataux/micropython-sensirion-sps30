@@ -1,0 +1,6 @@
+[submodule "toolchain/esp-idf"]
+	path = toolchain/esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "toolchain/micropython"]
+	path = toolchain/micropython
+	url = https://github.com/micropython/micropython.git
